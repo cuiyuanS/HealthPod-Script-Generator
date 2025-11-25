@@ -24,6 +24,37 @@
 | ⚡ 双模式支持   | 本地部署（VLLM）：数据安全、低延迟云端服务（阿里云 Qwen-Long）：无需 GPU、高效便捷 |
 | 🔊 音频合成     | 集成专业 TTS 工具，一键将剧本转化为可播放音频  |
 
+## 🎧 示例音频预览
+
+<table>
+<tr>
+<td align="center">
+
+**audio1**
+
+</td>
+<td align="center">
+
+**audio2**
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+[audio1.wav](https://github.com/user-attachments/files/23740528/audio1.wav)
+
+</td>
+<td align="center">
+
+[audio2.wav](https://github.com/user-attachments/files/23740535/audio2.wav)
+</td>
+</tr>
+</table>
+</details>
+
+
+
 ## ⚙️ 运行模式与依赖
 
 ### 模式 1：完全本地化 LLM 管道（[vllm_pipeline.py](vllm_pipeline.py)）
