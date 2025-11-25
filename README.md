@@ -42,12 +42,12 @@
 <tr>
 <td align="center">
 
-[audio1.wav](https://github.com/cuiyuanS/HealthPod-Script-Generator/releases/download/untagged-b65410d3ad3427606a63/audio1.wav)
+[audio1.webm](https://github.com/cuiyuanS/HealthPod-Script-Generator/releases/download/untagged-11f3d45d97c49f4ae7fd/audio1.webm)
 
 </td>
 <td align="center">
 
-[audio2.wav](https://github.com/cuiyuanS/HealthPod-Script-Generator/releases/download/untagged-b65410d3ad3427606a63/audio2.wav)
+[audio2.webm](https://github.com/cuiyuanS/HealthPod-Script-Generator/releases/download/untagged-11f3d45d97c49f4ae7fd/audio2.webm)
 </td>
 </tr>
 </table>
