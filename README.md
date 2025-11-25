@@ -42,13 +42,11 @@
 <tr>
 <td align="center">
 
-[audio1.webm](https://github.com/cuiyuanS/HealthPod-Script-Generator/blob/main/samples/audio1.webm)
-
+[audio1.webm](https://github.com/user-attachments/assets/ec0eebe3-fe77-47ff-88ac-857c9f3082fe)
 </td>
 <td align="center">
 
-[audio2.webm](https://github.com/cuiyuanS/HealthPod-Script-Generator/blob/main/samples/audio2.webm)
-</td>
+[audio2.webm](https://github.com/user-attachments/assets/8e581404-0c9b-4333-9500-1463e6cf76f7)</td>
 </tr>
 </table>
 </details>
