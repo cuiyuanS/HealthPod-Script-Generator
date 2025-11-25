@@ -42,12 +42,12 @@
 <tr>
 <td align="center">
 
-[audio1.webm](https://github.com/cuiyuanS/HealthPod-Script-Generator/releases/download/untagged-11f3d45d97c49f4ae7fd/audio1.webm)
+[audio1.webm](./samples/audio1.webm)
 
 </td>
 <td align="center">
 
-[audio2.webm](https://github.com/cuiyuanS/HealthPod-Script-Generator/releases/download/untagged-11f3d45d97c49f4ae7fd/audio2.webm)
+[audio2.webm](./samples/audio2.webm)
 </td>
 </tr>
 </table>
